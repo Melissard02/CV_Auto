@@ -1,0 +1,16 @@
+# Ignore generated letters and PDFs
+generated_letters/
+*.pdf
+*.docx
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment folders
+venv/
+.env/
+
+# Ignore OS-specific junk
+.DS_Store
+Thumbs.db
